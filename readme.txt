@@ -1,1 +1,1 @@
-this is a git learn text file GPL
+this is a git learn text file GPL 2
